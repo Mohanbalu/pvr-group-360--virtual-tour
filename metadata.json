@@ -1,0 +1,5 @@
+{
+  "name": "PVR Group - 360° Virtual Tour",
+  "description": "Experience PVR Group's premium gated community in an immersive 360° virtual tour.",
+  "requestFramePermissions": ["geolocation"]
+}

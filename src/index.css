@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Montserrat", sans-serif;
+
+  --color-pvr-blue: #0A192F;
+  --color-pvr-gold: #C5A059;
+  --color-pvr-gold-light: #D4AF37;
+  --color-pvr-accent: #172A45;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-pvr-blue antialiased;
+  }
+}
+
+@layer utilities {
+  .text-gradient-gold {
+    @apply bg-linear-to-r from-pvr-gold via-pvr-gold-light to-pvr-gold bg-clip-text text-transparent;
+  }
+  .bg-gradient-blue {
+    @apply bg-linear-to-br from-pvr-blue to-pvr-accent;
+  }
+  .animate-slow-zoom {
+    animation: slow-zoom 20s infinite alternate;
+  }
+  .animate-bounce-slow {
+    animation: bounce-slow 3s infinite;
+  }
+}
+
+@keyframes slow-zoom {
+  from { transform: scale(1); }
+  to { transform: scale(1.1); }
+}
+
+@keyframes bounce-slow {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
