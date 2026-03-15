@@ -165,7 +165,7 @@ const Navbar = ({ onOpenModal }: { onOpenModal: () => void }) => {
         <a href="#" className="flex items-center gap-2">
           <div className="w-10 h-10 bg-pvr-gold flex items-center justify-center rounded-lg font-bold text-pvr-blue text-xl">P</div>
           <span className="font-display font-bold text-2xl tracking-tighter text-white">
-            PVR <span className="text-pvr-gold">GROUP</span>
+            ABC <span className="text-pvr-gold">GROUP</span>
           </span>
         </a>
 
