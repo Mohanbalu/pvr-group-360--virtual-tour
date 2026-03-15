@@ -17,7 +17,7 @@ import {
   Stethoscope
 } from 'lucide-react';
 
-export const COMPANY_NAME = "PVR Group";
+export const COMPANY_NAME = "ABC Group";
 export const TAGLINE = "Building Tomorrow's Legacy Today";
 
 export const STATS = [
