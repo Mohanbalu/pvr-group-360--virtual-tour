@@ -163,7 +163,7 @@ const Navbar = ({ onOpenModal }: { onOpenModal: () => void }) => {
     )}>
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="#" className="flex items-center gap-2">
-          <div className="w-10 h-10 bg-pvr-gold flex items-center justify-center rounded-lg font-bold text-pvr-blue text-xl">P</div>
+          <div className="w-10 h-10 bg-pvr-gold flex items-center justify-center rounded-lg font-bold text-pvr-blue text-xl">ABC</div>
           <span className="font-display font-bold text-2xl tracking-tighter text-white">
             ABC <span className="text-pvr-gold">GROUP</span>
           </span>
