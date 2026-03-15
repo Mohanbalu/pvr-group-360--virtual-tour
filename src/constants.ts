@@ -58,7 +58,7 @@ export const NEARBY_LOCATIONS = [
 export const FLOOR_PLANS = [
   { type: "2 BHK", area: "1250 - 1350 sq.ft", image: "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&q=80&w=800" },
   { type: "3 BHK", area: "1650 - 1850 sq.ft", image: "https://images.unsplash.com/photo-1585128719715-46776b56a0d1?auto=format&fit=crop&q=80&w=800" },
-  { type: "4 BHK", area: "2250 - 2450 sq.ft", image: "https://images.unsplash.com/photo-1600607687940-47a04b697a63?auto=format&fit=crop&q=80&w=800" },
+  { type: "4 BHK", area: "2250 - 2450 sq.ft", image: "https://www.beautifulhomes.asianpaints.com/content/dam/asianpaintsbeautifulhomes/202304/4bhk-interior-design-cost/title-simple-4bhk-house-interior-design.jpg" },
 ];
 
 export const TESTIMONIALS = [
