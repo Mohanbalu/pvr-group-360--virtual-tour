@@ -62,7 +62,7 @@ export const FLOOR_PLANS = [
 ];
 
 export const TESTIMONIALS = [
-  { name: "Anil Kumar", role: "IT Professional", text: "The quality of construction and the attention to detail is impressive. PVR Group has truly delivered on their promise of luxury.", rating: 5 },
+  { name: "Anil Kumar", role: "IT Professional", text: "The quality of construction and the attention to detail is impressive. ABC Group has truly delivered on their promise of luxury.", rating: 5 },
   { name: "Saritha Reddy", role: "Business Owner", text: "The location in the future education zone is what attracted me most. It's a great investment for my children's future.", rating: 5 },
   { name: "Vikram Singh", role: "NRI Investor", text: "Smooth booking process and professional team. Looking forward to moving into our dream home.", rating: 4 },
 ];
