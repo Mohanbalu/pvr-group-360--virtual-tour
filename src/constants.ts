@@ -71,7 +71,7 @@ export const GALLERY_IMAGES = [
   { url: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=800", title: "Exterior View" },
   { url: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800", title: "Swimming Pool" },
   { url: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800", title: "Luxury Living Room" },
-  { url: "https://images.unsplash.com/photo-1600607687940-47a04b697a63?auto=format&fit=crop&q=80&w=800", title: "Modern Kitchen" },
+  { url: "https://baczewskiluxury.com/wp-content/uploads/2022/11/modern-kitchen-remodel-design.jpg", title: "Modern Kitchen" },
   { url: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&q=80&w=800", title: "Aerial View" },
   { url: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800", title: "Construction Progress" },
 ];
