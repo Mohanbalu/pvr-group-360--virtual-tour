@@ -360,7 +360,7 @@ const AboutSection = () => {
             <div className="relative z-10 rounded-[2rem] overflow-hidden shadow-2xl">
               <img 
                 src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1000" 
-                alt="PVR Group Construction" 
+                alt="ABC Group Construction" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
@@ -384,7 +384,7 @@ const AboutSection = () => {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
           >
-            <span className="text-pvr-gold font-bold tracking-widest uppercase text-sm mb-4 block">About PVR Group</span>
+            <span className="text-pvr-gold font-bold tracking-widest uppercase text-sm mb-4 block">About ABC Group</span>
             <h2 className="font-display text-4xl md:text-5xl font-bold text-pvr-blue mb-8 leading-tight">
               Building Tomorrow's <br />
               <span className="text-pvr-gold">Legacy Today</span>
@@ -872,7 +872,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-white/30 text-sm">
-          <p>© 2026 PVR Group. All rights reserved.</p>
+          <p>© 2026 ABC Group. All rights reserved.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms & Conditions</a>
