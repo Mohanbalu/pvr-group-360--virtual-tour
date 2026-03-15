@@ -390,7 +390,7 @@ const AboutSection = () => {
               <span className="text-pvr-gold">Legacy Today</span>
             </h2>
             <p className="text-lg text-pvr-blue/70 mb-8 leading-relaxed">
-              PVR Group is a trusted real estate developer committed to building premium residential communities with modern design, quality construction, and sustainable living environments.
+              ABC Group is a trusted real estate developer committed to building premium residential communities with modern design, quality construction, and sustainable living environments.
             </p>
             
             <div className="grid sm:grid-cols-2 gap-6 mb-10">
@@ -743,7 +743,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm uppercase tracking-widest mb-1">Call Us</p>
-                    <p className="text-xl font-bold">8977733623 / 8977733663</p>
+                    <p className="text-xl font-bold">123456789 / 987654321</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-6">
@@ -752,7 +752,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm uppercase tracking-widest mb-1">Visit Us</p>
-                    <p className="text-xl font-bold">PVR Group, Future Education Zone, Hyderabad</p>
+                    <p className="text-xl font-bold">ABC Group, Future Education Zone, Hyderabad</p>
                   </div>
                 </div>
               </div>
@@ -821,11 +821,11 @@ const Footer = () => {
             <a href="#" className="flex items-center gap-2">
               <div className="w-10 h-10 bg-pvr-gold flex items-center justify-center rounded-lg font-bold text-pvr-blue text-xl">P</div>
               <span className="font-display font-bold text-2xl tracking-tighter text-white">
-                PVR <span className="text-pvr-gold">GROUP</span>
+                ABC <span className="text-pvr-gold">GROUP</span>
               </span>
             </a>
             <p className="text-white/50 leading-relaxed">
-              PVR Group is a trusted real estate developer committed to building premium residential communities with modern design and quality construction.
+              ABC Group is a trusted real estate developer committed to building premium residential communities with modern design and quality construction.
             </p>
             <div className="flex gap-4">
               {[...Array(4)].map((_, i) => (
@@ -865,7 +865,7 @@ const Footer = () => {
               </li>
               <li className="flex gap-4">
                 <Phone className="text-pvr-gold shrink-0" />
-                <span className="text-white/50">8977733623 / 8977733663</span>
+                <span className="text-white/50">123456789 /987654321 </span>
               </li>
             </ul>
           </div>
